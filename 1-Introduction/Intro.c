@@ -1,3 +1,5 @@
+//GENERAL SYNTAX of a simple C program
+
 #include <stdio.h>
 int main() {
     
@@ -5,5 +7,5 @@ int main() {
     printf("Welcome to the C programming world!!!\n");
 
     return 0;
-    
+
 }
